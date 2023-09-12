@@ -1,0 +1,10 @@
+h1{
+    color: purple;
+    margin: 5px;
+    font-family: sans-serif;
+}
+p{
+    color: blue;
+    margin: 5px;
+    text-shadow: 1px 2px 3px red;
+}
